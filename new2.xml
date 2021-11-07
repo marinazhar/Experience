@@ -3,5 +3,8 @@
 	<age>31</age>
 	<pet>cat</pet>
 	<desired_salary>1000000</desired_salary>
-
+	<film>no</film>
+	<favorite_serial>Game of Thrones</favorite_serial>
+	<favorite_food>hamburger</favorite_food>
+	<favorite_season>summer</favorite_season>
 </anketa>
