@@ -1,0 +1,9 @@
+Bug Report:
+1. Bug id
+2. Title
+3. Environment
+4. Precondition
+5. Step To Reproduce
+6. Actual Result
+7. Expected Result
+8. Attachments
