@@ -1,4 +1,0 @@
-Name: Marina
-Age: 31
-Pet: 1 cat 
-Desired salary: 1000000$
